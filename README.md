@@ -34,4 +34,3 @@ Le formulaire prépare un message WhatsApp : il ne stocke pas les demandes dans 
 Les coordonnées de présentation restent à confirmer : +225 07 02 82 03 26 et digitbat.info@gmail.com. Les photos d’illustration ne constituent pas des réalisations de l’entreprise. Les polices Google Fonts nécessitent Internet ; une police de remplacement est prévue.
 
 Les pages conservent la balise noindex,nofollow de l’aperçu. Pour la version définitive destinée au référencement, supprimer cette balise après validation du contenu.
-echo "# digital-batiment" >> README.md
