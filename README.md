@@ -1,14 +1,11 @@
-# Digital Bâtiment
+# Digital Bâtiment — version publique Cloudflare
 
-Site vitrine HTML, CSS et JavaScript. Ouvrir index.html avec Live Server pour le consulter. Aucune installation npm nécessaire.
+Adresse : https://digital-batiment.pages.dev/
 
-## Coordonnées officielles
-- Téléphone et WhatsApp : +225 07 02 82 03 26
-- E-mail : digitbat.info@gmail.com
-- Implantation : Bingerville, Côte d’Ivoire
-- Interventions : toute la Côte d’Ivoire
+Copier le contenu du dossier dans le dépôt existant, conserver .git, puis envoyer sur GitHub. Le déploiement Cloudflare connecté au dépôt se mettra à jour.
 
-## Mise en ligne
-Transférer le contenu de ce dossier dans le dépôt GitHub du projet. Le site prépare les demandes sur WhatsApp.
+Cette version autorise l’indexation et ajoute les URL canoniques, robots.txt et sitemap.xml pour l’adresse pages.dev. Elle ne garantit pas un classement Google.
 
-La version est volontairement non indexable en attendant la publication définitive. Consulter SEO-PREPARATION.md avant la mise en ligne : confirmation du domaine, URL canoniques, sitemap, robots.txt et retrait du blocage d’indexation. Le domaine envisagé n’est pas encore configuré.
+Après déploiement, créer une propriété de type Préfixe de l’URL dans Google Search Console avec https://digital-batiment.pages.dev/ et valider avec le fichier HTML fourni par Google. Envoyer ensuite sitemap.xml et demander l’indexation de l’accueil.
+
+Lors de l’achat du domaine, mettre à jour les URL canoniques, og:url, le sitemap, robots.txt et l’URL de l’entreprise dans les données structurées. Configurer les redirections vers le nouveau domaine.
